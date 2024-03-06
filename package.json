@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0"
+  }
+}
